@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Toman Hub", "GrapeTheme")
+local Window = Library.CreateLib("Capo Hub", "GrapeTheme")
 
 local Tab = Window:NewTab("BGSI KEYLESS")
 local Section = Tab:NewSection("BGSI AUTOFARM SCRIPT")
